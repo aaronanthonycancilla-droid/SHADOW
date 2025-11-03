@@ -1,5 +1,5 @@
 # Gradle files
-.gradle/
+.gradle/ log_id
 build/lingo 
 https://github.com/user-attachments/files/23308137/SHADOW-Lingo.zip
 # Local configuration file (sdk path, etc)
